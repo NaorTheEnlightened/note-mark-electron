@@ -21,6 +21,7 @@
   }
 
   header {
+    /* draggable top bar */
     -webkit-app-region: drag;
   }
 
